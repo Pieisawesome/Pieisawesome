@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I'm studying Computer Science @ University of Texas at Dallas<br>📚 Currently working on CTF and coding challenges<br>🌎 Interested in cybersecurity and software development<br>🎲 Fun fact: You can find me roller skating on campus when the weather is cool</p>
+<p align="left">✨ I'm studying Computer Science @ University of Texas at Dallas<br>📚 Currently working on CTF and coding challenges<br>🌎 Interested in cybersecurity and software development<br>🎲 Fun fact: Currently getting my scuba certification!</p>
 
 ###
 
